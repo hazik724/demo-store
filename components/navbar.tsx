@@ -24,7 +24,7 @@ export default function Navbar() {
           href="/"
           className="text-2xl tracking-[0.3em] font-light uppercase"
         >
-           NAME
+           DRIP CULT
         </Link>
 
         {/* Desktop Links */}

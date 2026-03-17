@@ -9,19 +9,19 @@ import { motion } from "framer-motion"
 const slides = [
   {
     desktop: "/hero/dd1.jpg",
-    mobile: "/hero/mm1.jpg",
+    mobile: "/hero/w2.jpg",
     label: "Winter 2026",
     headline: "Silhouettes in Black",
   },
   {
     desktop: "/hero/dd2.jpg",
-    mobile: "/hero/mm2.jpg",
+    mobile: "/hero/w1.jpg",
     label: "New Collection",
     headline: "Refined Essentials",
   },
   {
     desktop: "/hero/dd3.jpg",
-    mobile: "/hero/mm3.jpg",
+    mobile: "/hero/w.jpg",
     label: "The Edit",
     headline: "Modern Icons",
   },
